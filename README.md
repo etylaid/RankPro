@@ -9,6 +9,24 @@ Our products range from simple rank panels to a whole API to manage your group(s
 
 <details>
   <summary>Redistribution</summary>
-    <b>Redistribution is allowed as long as proper credits are given to the RankPro team and no code is edited.</b><br>
-    <b>Please report any infraction.</b>
+    <b>Redistribution is prohibited unless with explicit permission, proper credits given to the RankPro team and no modified code</b><br>
+</details>
+
+<details>
+  <summary>Pricing</summary>
+    <h3><b>The only accepted payment method is Robux</b></h3> More information can be found in the <a href="https://discord.gg/QQUNEndsC5">official Discord server</a></b><br>
+    <b>Prices are always subject to change</b>
+</details>
+
+<details>
+  <summary>Guidelines</summary>
+    <h3><b>By using RankPro you agree</h3>
+to not share your license key<br>
+to not redistribute without explicit permission<br>
+to not abuse the API<br>
+to not use the services to promote scams/harmful activities<br>
+that administrators have the right to invalidate/revoke your license key if necessary<br>
+<br>
+Terms are subject to change. You will be notified in the Discord<br>
+Failure to comply will result in a blacklist and license removal</b>
 </details>
