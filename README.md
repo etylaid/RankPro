@@ -5,7 +5,7 @@ Roblox: @etylaid") and [__Recon__](https://www.roblox.com/users/989192099/profil
 Roblox: @Recon_boy") which sells services for all your Roblox needs.\
 Our products range from simple rank panels to a whole API to manage your group(s).
 
-![Discord](https://img.shields.io/discord/1114044858382958662?style=for-the-badge&logo=discord&label=Join)
+[![Discord](https://img.shields.io/discord/1114044858382958662?style=for-the-badge&logo=discord&label=Join)](https://discord.gg/QQUNEndsC5)
 
 <details>
   <summary>Redistribution</summary>
