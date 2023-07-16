@@ -9,7 +9,7 @@ Our products range from simple rank panels to a whole API to manage your group(s
 
 <details>
   <summary>Redistribution</summary>
-    <b>Redistribution is prohibited unless with explicit permission, proper credits given to the RankPro team and no modified code</b><br>
+    <b>Redistribution is prohibited. will result in a permanent non-appealable blacklist aswell as a license removal.</b><br>
 </details>
 
 <details>
@@ -22,7 +22,6 @@ Our products range from simple rank panels to a whole API to manage your group(s
   <summary>Guidelines</summary>
     <h3><b>By using RankPro you agree</h3>
 to not share your license key<br>
-to not redistribute without explicit permission<br>
 to not abuse the API<br>
 to not use the services to promote scams/harmful activities<br>
 that administrators have the right to invalidate/revoke your license key if necessary<br>
